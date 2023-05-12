@@ -1,0 +1,1 @@
+This is a sample landing page coded from scratch in order to comprehensively review flexbox concepts while completing the Odin Project front end fundamentals online course. In this project, I hope to demonstrate an understanding of basic HTML/CSS and flexbox in structuring an entire landing page. Thanks for your interest!
