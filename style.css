@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Fragment+Mono:ital@0;1&family=JetBrains+Mono:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Fragment Mono', monospace, 'Roboto Mono';
+    font-size: 18px;
+    font-weight: 300;
+    color: 
+}
+
+
+.header, .links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.header {
+    background-color: #000;
+    height: 80px;
+    padding: 0px 16px;
+}
+
+
+.logo {
+    font-size: 24px;
+    font-weight: 600;
+    height: 28px;
+    flex-shrink: 0;
+}
+
+ul {
+    list-style-type: none;
+    gap: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+}
+
+content {
+
+}
+
+
+.hero, .header-left, .header-right {
+display: flex;
+
+}
+
+.hero {
+    height: 500px;
+}
+
+.header-left {
+flex-direction: column;
+
+}
+
